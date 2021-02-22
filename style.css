@@ -1,0 +1,11 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+form{
+    border: solid black;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    text-align: center;
+}
